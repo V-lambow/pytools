@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hdevelop file_version="1.2" halcon_version="20.11.1.0">
+<procedure name="main">
+<interface/>
+<body>
+<l>read_image (Image2st141A211420260810002217, 'D:/m_code/preproceed/train-ztd/2ST-14_1_A2-1-14_20260810002217.jpg')</l>
+<l>gen_rectangle1 (Rectangle, 630, 0, 1024, 1280)</l>
+<l>reduce_domain (Image2st141A211420260810002217,Rectangle , ImageReduced)</l>
+<l>gamma_image (ImageReduced, GammaImage, 0.416667, 0.055, 0.0031308, 255, 'true')</l>
+<l>scale_image_range (GammaImage, ImageScaled, 100, 250)</l>
+<l>sobel_amp (ImageReduced, EdgeAmplitude, 'thin_sum_abs_binomial', 5)</l>
+<l>mult_image (EdgeAmplitude, EdgeAmplitude, ImageResult, 0.003, 0)</l>
+<c></c>
+<l>sub_image (ImageScaled, ImageResult, ImageSub, 1, 0)</l>
+<l>emphasize (ImageSub, ImageEmphasize, 39, 39, 2)</l>
+<c></c>
+</body>
+<docu id="main">
+<parameters/>
+</docu>
+</procedure>
+</hdevelop>

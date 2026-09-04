@@ -1,0 +1,330 @@
+{
+  "version": "3.3.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "ZW",
+      "score": null,
+      "points": [
+        [
+          1340.0454545454545,
+          25.0
+        ],
+        [
+          1721.8636363636363,
+          25.0
+        ],
+        [
+          1721.8636363636363,
+          390.90909090909093
+        ],
+        [
+          1340.0454545454545,
+          390.90909090909093
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "HHA",
+      "score": null,
+      "points": [
+        [
+          1426.409090909091,
+          20.454545454545453
+        ],
+        [
+          1528.6818181818182,
+          20.454545454545453
+        ],
+        [
+          1528.6818181818182,
+          761.3636363636364
+        ],
+        [
+          1426.409090909091,
+          761.3636363636364
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "ZW",
+      "score": null,
+      "points": [
+        [
+          2718.0,
+          1665.0
+        ],
+        [
+          2818.0,
+          1665.0
+        ],
+        [
+          2818.0,
+          1991.6666666666667
+        ],
+        [
+          2718.0,
+          1991.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "ZW",
+      "score": null,
+      "points": [
+        [
+          2894.666666666667,
+          635.0000000000001
+        ],
+        [
+          3008.0,
+          635.0000000000001
+        ],
+        [
+          3008.0,
+          918.3333333333334
+        ],
+        [
+          2894.666666666667,
+          918.3333333333334
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "ZW",
+      "score": null,
+      "points": [
+        [
+          3278.0,
+          1005.0000000000001
+        ],
+        [
+          3518.0,
+          1005.0000000000001
+        ],
+        [
+          3518.0,
+          1195.0
+        ],
+        [
+          3278.0,
+          1195.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "ZW",
+      "score": null,
+      "points": [
+        [
+          3418.0,
+          1945.0
+        ],
+        [
+          3524.666666666667,
+          1945.0
+        ],
+        [
+          3524.666666666667,
+          2071.666666666667
+        ],
+        [
+          3418.0,
+          2071.666666666667
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "ZW",
+      "score": null,
+      "points": [
+        [
+          3318.0,
+          2301.666666666667
+        ],
+        [
+          3504.666666666667,
+          2301.666666666667
+        ],
+        [
+          3504.666666666667,
+          2551.666666666667
+        ],
+        [
+          3318.0,
+          2551.666666666667
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "ZW",
+      "score": null,
+      "points": [
+        [
+          2104.666666666667,
+          1565.0
+        ],
+        [
+          2198.0,
+          1565.0
+        ],
+        [
+          2198.0,
+          1701.6666666666667
+        ],
+        [
+          2104.666666666667,
+          1701.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "ZW",
+      "score": null,
+      "points": [
+        [
+          2334.666666666667,
+          1611.6666666666667
+        ],
+        [
+          2508.0,
+          1611.6666666666667
+        ],
+        [
+          2508.0,
+          1718.3333333333333
+        ],
+        [
+          2334.666666666667,
+          1718.3333333333333
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "ZW",
+      "score": null,
+      "points": [
+        [
+          2244.666666666667,
+          1825.0
+        ],
+        [
+          2411.3333333333335,
+          1825.0
+        ],
+        [
+          2411.3333333333335,
+          2108.3333333333335
+        ],
+        [
+          2244.666666666667,
+          2108.3333333333335
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "ZW",
+      "score": null,
+      "points": [
+        [
+          2038.0,
+          1311.6666666666667
+        ],
+        [
+          2191.3333333333335,
+          1311.6666666666667
+        ],
+        [
+          2191.3333333333335,
+          1465.0
+        ],
+        [
+          2038.0,
+          1465.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "P069_SP2244541-CN-A-1TFXE26194E00336_cam_top_L0_PIP2059203-00-C_G1_M1_Y1_20260829101127_2ST_27_Up27.jpg",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 4096,
+  "description": ""
+}
